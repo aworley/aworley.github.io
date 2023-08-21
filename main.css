@@ -15,7 +15,7 @@ body {
     margin: auto;
 }
 .biggie {
-    font-size: 5em;
+    font-size: 2em;
     -webkit-text-stroke-color: black;
     -webkit-text-stroke-width: 1px;
 }
