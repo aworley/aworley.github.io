@@ -1,0 +1,21 @@
+div {    font-family: 'Libre Baskerville', serif;
+    color: white;
+
+}
+body {
+    background-image: url("foil.jpg");  background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    padding: 5em;
+}
+.button-div {
+    padding: 5em;
+}
+.center-div {
+    margin: auto;
+}
+.biggie {
+    font-size: 5em;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 1px;
+}
